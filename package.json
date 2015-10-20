@@ -1,0 +1,29 @@
+{
+  "name": "dim-parser-babel",
+  "version": "0.0.1",
+  "description": "a js/jsx parser plugin for fis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dim-team/dim-parser-babel.git"
+  },
+  "keywords": [
+    "fis",
+    "dim",
+    "parser",
+    "babel",
+    "jsx"
+  ],
+  "author": "dim-team <lijiayouyj@163.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dim-team/dim-parser-babel/issues"
+  },
+  "homepage": "https://github.com/dim-team/dim-parser-babel#readme",
+  "dependencies": {
+    "babel-core": "^5.3.1"
+  }
+}
